@@ -13,3 +13,30 @@
 	
 	
 }
+
+.headr_text_news_post{
+
+   letter-spacing: -.02em;
+   font-size: 27px;
+   line-height: 30px;
+
+}
+
+.text_news_post{
+	margin-top: 40px;
+	color: #494a4d;
+	font-family: 'Georgia', serif;
+	line-height: 20px;
+	border-bottom: 2px solid black;
+	padding-bottom: 18px
+	
+}
+
+.first_pic_news_post{
+	
+	width:100%;
+	height:auto;
+	
+	
+}
+
