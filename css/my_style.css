@@ -54,3 +54,51 @@
 	
 	
 }
+
+/* Post block */
+
+
+.head_topic_class{
+	width:100%;
+	height:700px;
+	background-image: url(https://img.gazeta.ru/files3/317/6147317/upload-AP1401010721-pic4_zoom-1000x1000-92356.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.text_position_post{
+	z-index: 2;
+	color: white;
+	width:100%;
+	top: 575px;
+	position: relative ;
+	font-size: 27px;
+    line-height: 30px;
+	
+}
+
+.post_gradient{
+	z-index:1;
+	width:100%;
+	height:150px;
+	top: 610px;
+	position: absolute;
+	opacity: 0.65;
+
+}
+
+.main_post_text{
+	font-family: 'Georgia', serif;
+	color: #494a4d;
+    font-size: medium;
+    line-height: 25px;
+	    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+	line-height: 1;
+	
+
+	
+}
